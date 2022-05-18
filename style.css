@@ -45,7 +45,7 @@ body{
 .search-input.active .autocom-box li{
     display: block;
 }
-.search-input.active .autocom-box li img{
+/* .search-input.active .autocom-box li img{
     width: 75px;
     height: 100px;
 }
@@ -54,7 +54,7 @@ body{
     align-items: center;
     justify-content: space-between;
 
-}
+} */
 .autocom-box{
     padding: 0;
     max-height: 280px;

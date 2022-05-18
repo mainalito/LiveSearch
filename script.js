@@ -16,7 +16,6 @@ inputBox.onkeyup = (e) => {
                     return `<li> 
                     <div class = "result">
                     <a>${users.firstName} ${users.lastName}</a>
-                    <img src = "https://wallpaperaccess.com/full/6173557.jpg">
                     </div>
                     </li>
                 `;
